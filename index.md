@@ -10,6 +10,6 @@ Our goal is to build a comprehensive framework allowing users and developers to 
 2. Neuron and synapse models will be implemented as Lava processes to enable execution of neural network simulations on neuromorphic hardware as well as conventional CPUs and GPUs;
 3. A graphical development tool to flexibly fit and tune complex neuron and synapse models to provided Loihi2 models.
 
-<img src="brian2lava.png" width="500" class="center"/>
+<img src="brian2lava.png" width="600"/>
 
 Interested in contributing? We'd love to hear from you!
