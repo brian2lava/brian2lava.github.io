@@ -1,4 +1,4 @@
-The goal of this open source project is to develop a Brian2 interface for Lava (https://lava-nc.org/), called Brian2Lava, to facilitate deployment of brain-inspired algorithms on Lava-supported neuromorphic hardware and emulator backends. Brian2 is an open source Python package (https://brian2.readthedocs.io/) developed and used by the computational neuroscience community to simulate spiking neural networks. 
+The goal of this open source project is to develop a [Brian2](https://brian2.readthedocs.io/) interface for [Lava](https://lava-nc.org/), called Brian2Lava, to facilitate deployment of brain-inspired algorithms on Lava-supported neuromorphic hardware and emulator backends. Brian2 is an open source Python package developed and used by the computational neuroscience community to simulate spiking neural networks. 
 
 By harnessing the power of differential equation based model definition, and enabling deployment on emulator backends via Lava, Brian2Lava aims to expedite prototyping. At the same time, Brian2Lava will be beneficial for users at all stages. Our aim is to reduce entry barriers, enable efficient algorithm development, and ease the execution of existing Brian2 models on neuromorhphic backends (e.g. Loihi1 and Loihi2).
 
@@ -10,6 +10,6 @@ Our goal is to build a comprehensive framework allowing users and developers to 
 2. Neuron and synapse models will be implemented as Lava processes to enable execution of neural network simulations on neuromorphic hardware as well as conventional CPUs and GPUs;
 3. A graphical development tool to flexibly fit and tune complex neuron and synapse models to provided Loihi2 models.
 
-![Overview](brian2lava.png)
+<img src="brian2lava.png" width="200" />
 
 Interested in contributing? We'd love to hear from you!
