@@ -12,4 +12,4 @@ Our goal is to build a comprehensive framework allowing users and developers to 
 
 <img src="brian2lava.png" width="600"/>
 
-Interested in contributing? We'd love to hear from you!
+Interested in contributing or have some ideas? Join the [discussion on github](https://github.com/lava-nc/lava/discussions/124)!
